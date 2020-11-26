@@ -1,7 +1,7 @@
-# Code folder for hosting code for a Data Science Project
+# Carpeta para alojar código para un proyecto
 
-This folder hosts all code for a data science project. It has three sub-folders, belonging to 3 stages of the Data Science Lifecycle:
+Esta carpeta aloja todo el código para un proyecto de ciencia de datos. Tiene tres subcarpetas, que pertenecen a 3 etapas del ciclo de vida del proyecto:
 
-1. Data_Acquisition_and_Understanding
-2. Modeling
-3. Deployment
+1. Entedimiento
+2. Modelado
+3. Despliegue
